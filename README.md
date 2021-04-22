@@ -1,4 +1,4 @@
-# ![end-portal-avatar](https://cdn.discordapp.com/attachments/800763317211234314/834489182327406653/end-portal-bot.jpg?size=64) End Portal
+# ![end-portal-avatar](https://cdn.discordapp.com/avatars/800762340147593217/578706bc2d0541873545500d68f15f90.png?size=64) End Portal
 End Portal provides the ability to link a Minecraft server's chat with a Discord channel, and allows members to communicate between them.
 
 ---
