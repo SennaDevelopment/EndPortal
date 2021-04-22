@@ -15,7 +15,7 @@ Open your server folder and go to the plugins folder.
 
 Now paste the .jar file in here.
 
-> Note: You should restart the server when you've placed the .jar file in the plugins folder.
+> Note: You should restart the server when you've placed the .jar file in the plugins folder. This might show a error message, you can ignore this for now.
 
 #### Changing the config file
 
